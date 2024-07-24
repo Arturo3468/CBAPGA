@@ -1,0 +1,15 @@
+body{
+    background-color: teal;
+    text-align: center;
+}
+h1 { 
+    font-size: 40px; 
+    font-family: sans-serif; 
+    font-weight: 300;
+ } 
+#APP { 
+    background-color: teal; 
+} 
+#juegos{ 
+    background-color:lightcoral; 
+}
